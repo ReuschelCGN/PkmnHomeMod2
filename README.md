@@ -13,8 +13,8 @@ Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/m
 
 **Pokemon Home Style Shadow Half Shiny 512x512 + Sparkles**<br />
 URL: `https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/main/UICONS_Shadow_Half_Shiny_Sparkle_512`<br />
-Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/main/UICONS_Shadow_Half_Shiny_Sparkle_512/150_b1_f133_s.png<br />
-![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/main/UICONS_Shadow_Half_Shiny_Sparkle_512/pokemon/150_b1_f133_s.png)
+Example: https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/main/UICONS_Shadow_Half_Shiny_Sparkle_512/150_f133_a1_s.png<br />
+![150](https://raw.githubusercontent.com/ReuschelCGN/PkmnHomeMod2/refs/heads/main/UICONS_Shadow_Half_Shiny_Sparkle_512/pokemon/150_f133_a1_s.png)
 
 
 Credits:<br />
